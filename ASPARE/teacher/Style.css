@@ -1,0 +1,98 @@
+body{
+		padding:0;
+		margin:0;
+		font - size:13 px;
+		color:#002E4C;
+	}
+	input,textarea{
+		padding:5px;
+		margin: 5px;
+	}
+	h2
+	{
+		color:#f6aa00;
+		letter-spacing:1px;
+		font-size:22px;
+	}
+	h4
+	{
+		color: #4AB367;
+		font-size: 18px;
+	}
+	h5
+	{
+		color:#FF0033;
+		font-size:16px;
+		letter-spacing:1px;
+		border-bottom:1px dashed #808080;
+	}
+	.warpper
+	{
+		margin:0 auto;
+		width:95%;
+		border:1px solid #808080;
+	}
+	.header
+	{
+		background:	#404040;
+		margin:0 auto;
+		padding:10px;
+		padding-left:20px;
+		border-bottom:3px solid red;
+	}
+	.menu
+	{
+		margin:0 auto;
+		padding:0;
+		height:44px;
+		background:	#000;
+	}
+	.menu ul
+	{
+		list-style-type:none;
+		margin:0;
+		padding:0;
+	}
+	.menu ul li
+	{
+		padding:15px;
+		float:left;
+	}
+	.menu ul li:hover
+	{
+	background:#f6aa00;
+	}
+	.menu ul li a
+	{
+		font-size:13px;
+		letter-spacing:1px;
+		display:block;
+		color:#fff;
+		text-decoration:none;
+		padding-left:20px;
+		padding-right:20px;
+	}
+	.postTable{
+	    margin-top: 10px;
+	    margin-bottom: 10px;
+		border:1px solid #9191B5;
+		border-radius: 15px;
+		width:98%;
+		padding: 10px;
+		background-color: #F4F4F8;
+	}
+	.postTable th{
+		font-size: 12px;
+		text-align: left;
+
+	}
+	.postTable td{
+		font-size: 12px;
+		padding: 10px;
+		letter-spacing: 1px;
+		line-height: 2em;
+		text-align: justify;
+	}
+
+
+
